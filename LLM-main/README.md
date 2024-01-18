@@ -1,2 +1,4 @@
-# LLM - Using a Large Language Model to take text as input and outputs the sentiment of the text which is either Positive, Negative or Neutral.
+# Large Language Model 
+
+Large Language Model processes textual input and generates an analysis of the sentiment expressed within the text, categorizing it as Positive, Negative, or Neutral.
 
