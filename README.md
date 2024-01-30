@@ -1,3 +1,3 @@
 # Large Language Model
 
-This Large Language Model processes textual input and generates an analysis of the sentiment expressed within the text, categorizing it as Positive, Negative, or Neutral.
+This advanced language model evaluates text input and produces an assessment of the sentiment conveyed in the content, classifying it as either Positive, Negative, or Neutral.
